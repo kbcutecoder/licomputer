@@ -186,6 +186,31 @@
     background-size: cover;
 }
 
+.page1-header {
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/feature12.jpeg) center center no-repeat;
+    background-size: cover;
+}
+
+.page2-header {
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/project1.webp) center center no-repeat;
+    background-size: cover;
+}
+
+.page3-header {
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/service12.jpeg) center center no-repeat;
+    background-size: cover;
+}
+
+.page4-header {
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/team4.jpeg) center center no-repeat;
+    background-size: cover;
+}
+
+.page5-header {
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/contact23.jpeg) center center no-repeat;
+    background-size: cover;
+}
+
 .breadcrumb-item+.breadcrumb-item::before {
     color: var(--secondary);
 }
